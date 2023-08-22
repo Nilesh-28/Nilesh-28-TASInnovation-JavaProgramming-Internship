@@ -1,5 +1,6 @@
 #  * TAS Innovation Internship *
 
+
 # TASK-1  ( MULTIPLICATION TABLE )  =>
 
 1. Prompt the user to enter a number. 
@@ -8,6 +9,8 @@
 4. Read and store the second number entered by the user. 
 5. Perform the multiplication of the two numbers. 
 6. Display the result of the multiplication to the user.
+
+
 
 
 # TASK-2  ( Currency Converter )  =>
@@ -21,6 +24,8 @@
 7. Fetch the exchange rate for the source and target currencies from an API or a predefined currency conversion formula. 
 8. Multiply the amount by the exchange rate to perform the currency conversion. 
 9. Display the converted amount to the user.
+
+
 
 
 # TASK-3  ( Snake Game )  => 
